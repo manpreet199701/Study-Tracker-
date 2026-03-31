@@ -1,0 +1,5 @@
+{
+  "name": "Web2App Studio",
+  "description": "A tool to convert live websites into installable apps using PWA technology and AI-powered design extraction.",
+  "requestFramePermissions": []
+}
